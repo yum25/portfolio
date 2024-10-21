@@ -15,6 +15,6 @@
 1. **The Michigan Daily Mobile App** - <https://apps.apple.com/us/app/the-michigan-daily/id1615063980?platform=iphone> (app store link)
    > Designed and developed a mobile news app in collaboration with the mobile team and former Senior Software Engineer (Eric Lau)
    > Built custom wordpress API endpoints with **PHP** to fetch and query articles by section and search parameters. Mobile app built in React Native.
-1. **The Michigan Daily Games** - <https://links.michigan-daily-games.pages.dev/> (example of games main page) <https://links.michigan-daily-games.pages.dev/links/2024/10/01> (example links game) <https://links.michigan-daily-games.pages.dev/gridlocked/2024/10/01> (example of gridlocked game)
+1. **The Michigan Daily Games** - <https://links.michigan-daily-games.pages.dev/> (example of games main page) <https://links.michigan-daily-games.pages.dev/links/2024/10/21> (example links game) <https://links.michigan-daily-games.pages.dev/gridlocked/2024/10/01> (example of gridlocked game)
    > Designed layout and developed games (links and gridlocked) and interal editor to allow games admins to publish new games weekly. Stored games information in a **SQL database**.
    > Currently in charge of maintenance of the crosswords editor.
