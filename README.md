@@ -1,5 +1,5 @@
 # portfolio
-1. **Detroit-Windsor Mapping Puzzle** - <https://ol-samples.pages.dev/> (main page), <https://ol-samples.pages.dev/analysis/56> (analysis of a submission)
+1. **Detroit-Windsor Mapping Puzzle** - <https://ol-samples.pages.dev/> (main page), <https://ol-samples.pages.dev/analysis/59> (analysis of a submission)
    > Designed and developed a mapping puzzle that allows you to drag bordering cities of Detroit into their correct place. Then analyzes your submission,
    > showing which bordering municipalities you got correct. Part of a larger project involving conceptualizing regional collaboration and development of Detroit.
    > Built with **OpenLayers**, **PostgresQL** and SvelteKit.
