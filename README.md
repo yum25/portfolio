@@ -3,9 +3,9 @@
    > Designed and developed a mapping puzzle that allows you to drag bordering cities of Detroit into their correct place. Then analyzes your submission,
    > showing which bordering municipalities you got correct. Part of a larger project involving conceptualizing regional collaboration and development of Detroit.
    > Built with **OpenLayers**, **PostgresQL** and SvelteKit.
-1. **The Michigan Daily 2024 Elections Guide** - <https://specials.michigandaily.com/2024/presidential-elections/>
-   > Developed with a team of engineers a website that displays helpful information on articles, candidates, and voting on the upcoming 2024 election.
-   > Built with **React**, election map visualizations made with **D3**.
+1. **The Michigan Daily 2024 Elections Commentary** - <https://specials.michigandaily.com/2024/opinion-elections/>
+   > Developed a website with a special layout that features Opinion Columnns, Editorials and data graphics for why you should vote in the 2024 election.
+   > Built with **React**
 1. **The Michigan Daily 2024 Love Notes** - <https://specials.michigandaily.com/2024/love-notes/>
    > Designed layout and developed a special website layout for The Statement's Love Edition, featuring articles and displaying hundreds of user responses for Valentine's day.
    > Built with **React**, deployed with AWS S3 and used AWS SES email service to send out love notes to recipients!
